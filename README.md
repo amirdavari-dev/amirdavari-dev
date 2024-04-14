@@ -12,9 +12,9 @@
  
 </div>
 <div align="center">
- <a target="_blank" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
- <a target="_blank" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitter.png?raw=true" /> </a>
- <a target="_blank" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/inss.jpg?raw=true" /> </a>
+ <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
+ <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitter.png?raw=true" /> </a>
+ <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/inss.jpg?raw=true" /> </a>
  <a href="tel:+989034533725" <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/call.png?raw=true" /> </a>
 </div>
 <img align="center"  src="https://github.com/amirdavari-dev/amirdavari-dev/assets/109758250/78921863-e45e-4faa-a37b-d838424315fa" />
