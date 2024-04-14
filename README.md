@@ -12,9 +12,9 @@
  
 </div>
 <div align="center">
- <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
- <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitter.png?raw=true" /> </a>
- <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/inss.jpg?raw=true" /> </a>
- <a <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/tel.jpg?raw=true" /> </a>
+ <a target="_self" href="https://instagram.com/amirdavarich"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
+ <a target="_self" href="https://twitter.com/amirdavarich"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitter.png?raw=true" /> </a>
+ <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/inss.jpg?raw=true" /> </a>
+ <a href="https://t.me/amirdavari_ch"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/tel.jpg?raw=true" /> </a>
 </div>
 <img align="center"  src="https://github.com/amirdavari-dev/amirdavari-dev/assets/109758250/78921863-e45e-4faa-a37b-d838424315fa" />
