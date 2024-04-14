@@ -20,5 +20,7 @@
 </div>
 <br />
 <br />
-
-<img align="center"  src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
+<div align="center">
+ 
+<img align="center" width="400"   src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
+</div>
