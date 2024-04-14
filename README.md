@@ -12,6 +12,6 @@
  
 </div>
 <div>
- <a style="border-radius:20px;overflow:hidden;" href="https://linkedin.com/in/amirdavari-dev"> <img width="100" height="100" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
+ <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
 </div>
 <img align="center"  src="https://github.com/amirdavari-dev/amirdavari-dev/assets/109758250/78921863-e45e-4faa-a37b-d838424315fa" />
