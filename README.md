@@ -13,7 +13,7 @@
 </div>
 <div>
  <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
- <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
+ <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitter.png?raw=true" /> </a>
  <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
  <a href="https://linkedin.com/in/amirdavari-dev"> <img width="50" height="50" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
 </div>
