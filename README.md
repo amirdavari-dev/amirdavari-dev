@@ -1,5 +1,5 @@
 # Welcome to my Github page
-<h2 align="center">Hi a'm Amir Davari - FrontEnd Developer 👨🏼‍💻</h2>
+<h2 align="center">Hi i'm Amir Davari - FrontEnd Developer 👨🏼‍💻</h2>
 <p align="justify">
  With respect, I am Amir, a professional front-end website designer with 4 years of experience in this field, and I welcome you as a freelancer.
 💻 My expertise is in the design and development of front-end sites. 
