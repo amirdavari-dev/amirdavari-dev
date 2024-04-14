@@ -22,5 +22,5 @@
 <br />
 <div align="center">
  
-<img align="center" width="400"   src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
+<img align="center" width="270"   src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
 </div>
