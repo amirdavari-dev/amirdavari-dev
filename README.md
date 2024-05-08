@@ -9,10 +9,20 @@
  
 </div>
 <p align="justify">
- With respect, I am Amir, a professional front-end website designer with 4 years of experience in this field, and I welcome you as a freelancer.
-💻 My expertise is in the design and development of front-end sites. 
-💻 With many technical abilities such as css, JavaScript, React, Typescript, Tailwind, Bootstrap, I am able to create user-friendly and beautiful websites. I cope well with the challenges and requirements of various projects. If you find a professional and experienced web designer, I am sure that I can accompany you in realizing the unique and efficient website that you want. 
-💻🤝 With my experience and skills, you will see that cooperation with me will have the best results for you and I will provide the best solutions and strategies to achieve your goals. 
+ Web designer and developer
+
+With regards, I am Amir Davari, a web designer and developer with all the skills and expertise in the field of front-end websites. Experience and mastery of modern technologies, including HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Typescript and Bootstrap, allow me to provide you with innovative and efficient solutions in the field of website design and development.
+
+Experiences and expertise
+     The ability to design and develop multilingual websites, changing themes day and night, and single page functionality
+     Using various tools and packages such as MUI, Shadcn, React Icons, and Axios to improve the efficiency and quality of websites
+     Active experience in various projects from personal sites to large commercial projects
+
+Considering my experience and expertise, I am looking for cooperation with you in interesting and innovative projects in the field of website front-end. I believe that by working together and working together, we can create creative and successful projects that best meet your needs and those of your customers.
+
+I look forward to the opportunity to work with you and add more value to your projects.
+With respect,
+Amir Davari
 </p>
 
 <div align="center">
