@@ -24,9 +24,9 @@ I look forward to the opportunity to work with you and add more value to your pr
 With respect,
 Amir Davari
 </p>
-
-<div align="center">
  <p bgColor="green">Contact With Me</p>
+<div align="center">
+
  <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
  <a target="_self" href="https://twitter.com/amirdavarich"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitt.jpg?raw=true" /> </a>
  <a target="_self" href="https://instagram.com/amirdavarich"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/inss.jpg?raw=true" /> </a>
