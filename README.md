@@ -28,7 +28,7 @@ Amir Davari
 <div align="center">
 
  <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
- <a target="_self" href="https://twitter.com/amirdavarich"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/twitt.jpg?raw=true" /> </a>
+ 
  
  <a href="https://t.me/amirdavari_ch"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/tel.jpg?raw=true" /> </a>
 </div>
