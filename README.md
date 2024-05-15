@@ -25,13 +25,7 @@ With respect,
 Amir Davari
 </p>
  <p bgColor="green">Contact With Me</p>
-<div align="center">
 
- <a target="_self" href="https://linkedin.com/in/amirdavari-dev"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/linkedin.png?raw=true" /> </a>
- 
- 
- <a href="https://t.me/amirdavari_ch"> <img width="30" height="30" src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/tel.jpg?raw=true" /> </a>
-</div>
 <br />
 <br />
 <div align="center">
