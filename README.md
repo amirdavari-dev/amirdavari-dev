@@ -24,7 +24,6 @@ I look forward to the opportunity to work with you and add more value to your pr
 With respect,
 Amir Davari
 </p>
- <p bgColor="green">Contact With Me</p>
 
 <br />
 <br />
