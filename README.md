@@ -1,33 +1,64 @@
-### Welcome to my Github page
-<div align="center">
- 
-# Hi i'm Amir Davari - FrontEnd Developer 👨🏼‍💻
-</div>
-<div align="center">
- 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- 
-</div>
-<p align="justify">
- Web designer and developer
+Amir Davari 🚀✨
 
-With regards, I am Amir Davari, a web designer and developer with all the skills and expertise in the field of front-end websites. Experience and mastery of modern technologies, including HTML, CSS, JavaScript, ReactJS , NextJs, Tailwind CSS, Typescript and Bootstrap, allow me to provide you with innovative and efficient solutions in the field of website design and development.
+Hey there! I'm Amir Davari, a Full-Stack JavaScript Sorcerer weaving magic across frontend and backend realms. I craft blazing-fast, visually stunning web apps with a dark, futuristic aesthetic. Ready to dive into my world? 🌌
+🌟 About Me
 
-Experiences and expertise
-     The ability to design and develop multilingual websites, changing themes day and night, and single page functionality
-     Using various tools and packages such as MUI, Shadcn, React Icons, and Axios to improve the efficiency and quality of websites
-     Active experience in various projects from personal sites to large commercial projects
+🖥️ Frontend Wizardry: Sculpting pixel-perfect, responsive UIs with React and Next.js 15 (fully updated to the latest features).
+⚙️ Backend Mastery: Forging robust APIs and server-side logic with Node.js.
+🧠 State Management Guru: Commanding Zustand, React Context, and Reducers for seamless, scalable state solutions.
+🌉 Full-Stack Alchemist: Bridging frontend and backend to deliver end-to-end brilliance.
+💻 Code Mantra: Clean, modular, and high-performance code with a sprinkle of creativity.
 
-Considering my experience and expertise, I am looking for cooperation with you in interesting and innovative projects in the field of website front-end. I believe that by working together and working together, we can create creative and successful projects that best meet your needs and those of your customers.
+🛠️ Tech Stack
 
-I look forward to the opportunity to work with you and add more value to your projects.
-With respect,
-Amir Davari
-</p>
 
-<br />
-<br />
-<div align="center">
+
+Category
+Skills
+
+
+
+Frontend
+ React    Next.js 15    JavaScript (ES6+)    TypeScript    Tailwind CSS    HTML5    CSS3
+
+
+Backend
+ Node.js    Express.js    REST APIs    GraphQL
+
+
+State Management
+ Zustand    React Context    Reducer
+
+
+Tools & Platforms
+ Git    Webpack    Vite    Docker    Vercel    Netlify
+
+
+Databases
+ MongoDB    PostgreSQL    Prisma
+
+
+Other
+ JWT    WebSockets    CI/CD    Jest    Cypress
+
+
+🌌 Featured Projects
+
+💥 [Project Name 1]: A Next.js 15 app with a sleek frontend and Node.js backend, powered by Zustand for state management. [Link to Repo]
+🔥 [Project Name 2]: A full-stack e-commerce platform with real-time updates via WebSockets and React Context. [Link to Repo]
+⚡️ [Project Name 3]: A dark-themed dashboard built with Tailwind CSS and Next.js, integrated with a GraphQL API. [Link to Repo]
+
+📬 Connect with Me
+
+📧 Email: your.email@example.com
+💼 LinkedIn: Amir Davari
+🌐 Portfolio: amirdavari.dev
+🐦 X: @YourXHandle
+
+⚡ Fun Fact
+When I'm not coding, I'm either chasing the latest JS frameworks, sipping coffee, or designing dark-themed UIs that glow like the night sky. ☕🌃
+
+🌟 Star my repos to fuel the coding fire!Let's create something epic together! 😎
+
  
 <img align="center" width="270"   src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
-</div>
