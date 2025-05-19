@@ -1,5 +1,4 @@
 Amir Davari 🚀✨
-
 Hey there! I'm Amir Davari, a Full-Stack JavaScript Sorcerer weaving magic across frontend and backend realms. I craft blazing-fast, visually stunning web apps with a dark, futuristic aesthetic. Ready to dive into my world? 🌌
 🌟 About Me
 
@@ -19,27 +18,27 @@ Skills
 
 
 Frontend
- React    Next.js 15    JavaScript (ES6+)    TypeScript    Tailwind CSS    HTML5    CSS3
+React   Next.js 15   JavaScript (ES6+)   TypeScript   Tailwind CSS   HTML5   CSS3
 
 
 Backend
- Node.js    Express.js    REST APIs    GraphQL
+Node.js   Express.js   REST APIs   GraphQL
 
 
 State Management
- Zustand    React Context    Reducer
+Zustand   React Context   Reducer
 
 
 Tools & Platforms
- Git    Webpack    Vite    Docker    Vercel    Netlify
+Git   Webpack   Vite   Docker   Vercel   Netlify
 
 
 Databases
- MongoDB    PostgreSQL    Prisma
+MongoDB   PostgreSQL   Prisma
 
 
 Other
- JWT    WebSockets    CI/CD    Jest    Cypress
+JWT   WebSockets   CI/CD   Jest   Cypress
 
 
 🌌 Featured Projects
@@ -59,6 +58,7 @@ Other
 When I'm not coding, I'm either chasing the latest JS frameworks, sipping coffee, or designing dark-themed UIs that glow like the night sky. ☕🌃
 
 🌟 Star my repos to fuel the coding fire!Let's create something epic together! 😎
+
 
  
 <img align="center" width="270"   src="https://github.com/amirdavari-dev/amirdavari-dev/blob/main/images/Animation%20-%201713080418872.gif?raw=true" />
